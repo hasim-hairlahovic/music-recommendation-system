@@ -1,4 +1,5 @@
-# music-recommendation-system
+![Image](https://github.com/user-attachments/assets/73e7d8ce-eceb-4b7b-8cde-e8e4d28b3e4b)
+
 The music industry is huge and number of songs available or released daily is overwhelming. It is very difficult to do a ‘raw’ music search without the help of recommender system. Also, music exploration can be tedious and time consuming.
 
 The objectives: The goal is to develop a music recommendation system that will propose top 10 songs for a user based on the likelihood of listening to those songs
