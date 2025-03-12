@@ -1,5 +1,5 @@
 # music-recommendation-system
-The context: The music industry is huge and number of songs available or released daily is overwhelming. It is very difficult to do a ‘raw’ music search without the help of recommender system. Also, music exploration can be tedious and time consuming.
+The music industry is huge and number of songs available or released daily is overwhelming. It is very difficult to do a ‘raw’ music search without the help of recommender system. Also, music exploration can be tedious and time consuming.
 
 The objectives: The goal is to develop a music recommendation system that will propose top 10 songs for a user based on the likelihood of listening to those songs
 The key questions: Can we develop a recommendation system based on the available data? What are the most popular songs listened by users? Is there underlying trend in the data? Can top performing model identify top ten songs for a user?
